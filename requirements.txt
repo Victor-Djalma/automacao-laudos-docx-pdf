@@ -1,0 +1,4 @@
+lxml>=5.0,<7
+openpyxl>=3.1,<4
+pywin32>=306; platform_system == "Windows"
+
